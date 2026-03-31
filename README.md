@@ -1,1 +1,1 @@
-# omc-patch-hud-minimax
+# minimax hud patch for oh-myclaudecode
